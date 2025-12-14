@@ -1,0 +1,5 @@
+Total files processed: 10
+Small category (1-5 sequences): 4 files
+Medium category (6-10 sequences): 3 files
+Large category (>10 sequences): 3 files
+Total sequences across all files: 82
