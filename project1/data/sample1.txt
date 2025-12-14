@@ -1,0 +1,4 @@
+>sequence_1_sample1
+ATCGATCGATCGATCG
+>sequence_2_sample1
+GCTAGCTAGCTAGCTA

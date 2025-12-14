@@ -1,0 +1,12 @@
+>amplicon_1
+ATCGATCG
+>amplicon_2
+GCTAGCTA
+>amplicon_3
+TTAATTAA
+>amplicon_4
+CCGGCCGG
+>amplicon_5
+ATATATAT
+>amplicon_6
+GCGCGCGC
