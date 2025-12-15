@@ -1,0 +1,4 @@
+DNA Sequence Analysis Results
+==================================================
+Total sequences analyzed: 10
+Average length: 9.8
