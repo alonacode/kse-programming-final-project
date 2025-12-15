@@ -2,6 +2,11 @@
 
 ## Project 1: DNA Sequence File Organizer (BASH)
 
+## Go to project1 folder
+
+```bash
+cd project1
+```
 ### How to run
 ```bash
 chmod +x organize_sequences.sh
@@ -18,7 +23,7 @@ on the provided sample files.
 ## Project 2: DNA Sequence Analyzer (Python)
 ### How to run
 ```bash
-python3  project2/analyzer.py
+python3 project2/analyzer.py
 ```
 Enter the name of a test file when prompted (e.g. test_sequences.txt).
 

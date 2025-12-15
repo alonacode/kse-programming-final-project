@@ -1,0 +1,14 @@
+>seq1_chromosome1
+ATCGATCGATCG
+>seq2_chromosome2
+GCTAGCTAGCTA
+>seq3_chromosome3
+TTAATTAATTAA
+>seq4_chromosome4
+CCGGCCGGCCGG
+>seq5_chromosome5
+ATATATATATAT
+>seq6_chromosome6
+GCGCGCGCGCGC
+>seq7_chromosome7
+TATATATATATA
